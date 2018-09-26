@@ -1,3 +1,3 @@
 # IT Service Portal
 
-### [DEMO](https://akgd.gitlab.io/it-portal)
+### [DEMO](https://akgd.github.io/it-portal/)
